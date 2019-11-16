@@ -11,6 +11,7 @@ Aplicativo mobile que realiza consulta de dados dos Pokemons através da API Pok
   <tr align="center">
     <td><img src="https://github.com/greysonmrx/Pokedex/blob/master/screen4.png" width="240" height="400">      </td>
     <td><img src="https://github.com/greysonmrx/Pokedex/blob/master/screen5.png" width="240" height="400">      </td>
+    <td><img src="https://github.com/greysonmrx/Pokedex/blob/master/screen6.png" width="240" height="400">      </td>
   </tr>
 </table>
 
